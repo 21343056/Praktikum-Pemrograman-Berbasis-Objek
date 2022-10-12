@@ -1,2 +1,2 @@
-# Praktikum-Pemrograman-Berbasis-Objek
-Praktikum Pemrograman Berbasis Objek in Python Language
+# Praktikum Pemrograman Berbasis Objek
+Praktikum Pemrograman Berbasis Objek menggunakan Python Language
